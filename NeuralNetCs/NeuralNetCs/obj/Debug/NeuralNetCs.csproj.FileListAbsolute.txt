@@ -1,0 +1,10 @@
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\bin\Debug\NeuralNetCs.exe.config
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\bin\Debug\NeuralNetCs.exe
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\bin\Debug\NeuralNetCs.pdb
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\NeuralNetCs.csprojAssemblyReference.cache
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\JA_project.Form1.resources
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\NeuralNetCs.Properties.Resources.resources
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\NeuralNetCs.csproj.GenerateResource.cache
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\NeuralNetCs.csproj.CoreCompileInputs.cache
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\NeuralNetCs.exe
+C:\Users\reosk\Desktop\Nowy projekt assemblera\AssemblerProject\NeuralNetCs\obj\Debug\NeuralNetCs.pdb
